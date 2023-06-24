@@ -1,5 +1,6 @@
 {
   "name": "goit-test-task",
+  "homepage": "https://andrewscratch.github.io/goit-test-task",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
