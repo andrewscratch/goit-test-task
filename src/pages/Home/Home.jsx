@@ -20,7 +20,7 @@ const Home = () => {
 
       <div className={css.buttonBox}>
         <Link to="tweets" className={css.button}>
-          Go to Tweets <FaTwitterSquare className={css.icon} />
+          Tweets <FaTwitterSquare className={css.icon} />
         </Link>
       </div>
 
